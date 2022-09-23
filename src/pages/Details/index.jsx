@@ -9,7 +9,7 @@ import { Tag } from "../../components/Tag";
 import { Container, Links, Content } from "./styles.js";
 
 
-import { api } from "../../../../api_rocketnotes/src/services/api";
+import { api } from "../../services/api";
 
 //useParams = buscar parâmetros na pagina
 
